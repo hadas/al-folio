@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Human dignity
+description: Guidelines for a day-long human dignity activity for middle school children
+img: assets/img/dignity.png
+importance: 1
+category: education
 ---
 
 Every project has a beautiful feature showcase page.

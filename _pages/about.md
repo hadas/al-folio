@@ -1,24 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: hadas_profile.jpeg
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an experienced researcher in the areas of natural language processing (NLP) and information retrieval (IR), currently looking for a new challenge. I earned my PhD in Information Retrieval at the [Technion, Israel Institute of Technology](https://www.technion.ac.il/en/home-2/). In my thesis study, I developed algorithms for entity retrieval and for semantic document search under the guidance of [Prof. Oren Kurland](https://iew3.technion.ac.il/~kurland/). I explored similar topics as a research intern at [IBM research](https://research.ibm.com/labs/haifa/) and [Yahoo! Labs](https://research.yahoo.com/) in Haifa. My most recent position was as a senior data scientist at [AI21Labs](https://www.ai21.com/), where I worked on various NLP challenges including word sense disambiguation, word substitution, and human evaluation. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a BSc in Physics and Mathematics from the [Hebrew University of Jerusalem](https://en.huji.ac.il/en), earned as part of the [Talpiot elite officer's training program](https://en.wikipedia.org/wiki/Talpiot_program). My Master's degree is in Physics and I earned it at [Tel Aviv university](https://english.tau.ac.il/). In my Master's thesis, I studied the effects of [Diffusing Aloha-emitters Radiation Therapy (DART)](https://www.alphatau.com/) on different solid tumors. 
+
+I am interested in semantic representations of language, knowledge representations, and related applications. Also, I am intrigued by the acquisition of language by children and literacy learning.  
+
+I am the proud mother of three children. Passionate about education and ways that technology, specifically artificial intelligence, can benefit children of all ages. My hobbies include creating art, writing, and volunteering in our local schools.
