@@ -13,7 +13,7 @@ nav: true
 
 **2004 - 2009 Physics, MSc (Magna Cum Laude)**
 <br>Tel-Aviv university, Tel-Aviv
-<br>Research topic: <a href="/al-folio/assets/pdf/MScThesis.pdf">Diffusing Alpha-emitters Radiation Therapy (DART): Comparative study of different experimental models of treated solid tumors</a>. Carried out under the supervision of [Prof. Itzhak Kelson](https://english.tau.ac.il/profile/kelson) and [Prof. Yona Keisari](https://english.tau.ac.il/profile/ykeisari).
+<br>Thesis: <a href="/al-folio/assets/pdf/MScThesis.pdf">Diffusing Alpha-emitters Radiation Therapy (DART): Comparative study of different experimental models of treated solid tumors</a>. Carried out under the supervision of [Prof. Itzhak Kelson](https://english.tau.ac.il/profile/kelson) and [Prof. Yona Keisari](https://english.tau.ac.il/profile/ykeisari).
 
 **2000 - 2003 Physics and Mathematics, BSc, [“Talpiot” Elite Officer’s Training Program](https://en.wikipedia.org/wiki/Talpiot_program)**
 <br>Hebrew University of Jerusalem, Jerusalem
@@ -80,7 +80,7 @@ nav: true
 ## **Volunteering**
 
 **2018 - Present - Organizer and Developer of Educational Enrichment Programs**
-<br>Hour of Code, Machine Learning for Kids, Inclusion and Democracy. See more details here. 
+<br>Hour of Code, Machine Learning for Kids, Inclusion and Democracy. See more details [here](https://hadas.github.io/al-folio/projects/). 
 
 **12/2016 - 07/2018 - Co-founder and Community Leader & Speaker, Women Techmakers Israel**
 <br>Organised and spoke at technical and soft skills events for a community of tech women. Developed peer mentoring programs. [Our Facebook page](https://www.facebook.com/wtmil).  
