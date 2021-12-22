@@ -20,7 +20,7 @@ Upon realizing the importance of exposing children from all backgrounds to techn
 
 	<ul>
 	   <li>It is very important to begin the lesson with a brief introduction to technology. Explain what it is and where we see it in our everyday lives. Children enjoy imagining new technologies when they are asked to do so. <a href="/al-folio/assets/pdf/hour_of_code.pdf">Here is an example presentation<a>.
-	    <li>The dance party is an amazingly engaging activity. Suitable for children in the second through fourth grades. For first graders, it might be too challenging because they don't know how to read yet. Instead, I recommend constructing and having fun.
+	    <li>"The dance party" is an amazingly engaging activity. Suitable for children in the second through fourth grades. For first graders, it might be too challenging because they don't know how to read yet. Instead, I recommend "constructing and having fun".
 	    <li>Having a diverse group of volunteer parents who provide children with various kinds of role models is important.
 
 
