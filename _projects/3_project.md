@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Critical thinking
+title: Critical Thinking
 description: A series of lessons aimed at developing critical thinking skills
 img: assets/img/questions.jpeg
 importance: 1

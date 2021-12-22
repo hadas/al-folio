@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial intelligence
+title: Artificial Intelligence
 description: Introduction to AI for elementary school children 
 img: assets/img/ai_kids.jpeg
 importance: 2
