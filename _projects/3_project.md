@@ -11,7 +11,7 @@ Our age of abundant information and widespread misinformation calls for the deve
 
 It is a fairly long presentation that can be divided into several parts. The concept of asking questions is discussed in slides 1-12. The discussion provides an in-depth look at different types of questions, raising the question of whether some are better than others. It is recommended to let the children ask questions and categorize them on their own.
 
-The second section (slides 13-55) focuses on two specific questions and can be divided into two lessons. The first question is "How common is my name?" and the second is "Is the world's population growing?". In both lessons the use of databases is demonstrated and the Throughout both lessons, the use of databases is demonstrated and the question of selecting the right resources is discussed.
+The second section (slides 13-55) focuses on two specific questions and can be divided into two lessons. The first question is "How common is my name?" and the second is "Is the world's population growing?". Throughout both lessons, the use of databases is demonstrated and the question of selecting the right resources is discussed.
 
 The third section (slides 56-76) describes general concepts of data analysis at a higher level. An overview of data types and data collection methods is provided. 
 
